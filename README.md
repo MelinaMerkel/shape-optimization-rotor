@@ -3,3 +3,5 @@ This repository contains data and Matlab/Octave code to generate the images from
 
 * run "figures" in Octave/Matlab to generate the images from the paper
 * import IGES files "stator.igs", "rotor\_original.igs" and "rotor\_optimized.igs" to CAE software to see stator and rotor geometry
+
+This work is supported by the German BMBF by the PASIROM project (grant nr. 05M2018RDA), the Excellence Initiative of the German Federal and State Governments and by the Graduate School of Computational Engineering at Technische Universität Darmstadt.
